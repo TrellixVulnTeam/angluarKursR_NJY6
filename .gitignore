@@ -1,4 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
+<<<<<<< HEAD
 
 # Compiled output
 /dist
@@ -40,3 +41,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+=======
+ 
+ 
+ 
+/connect.lock
+
+>>>>>>> d75e5bcc ( Kurs Angular  - tworzymy komponent od podstaw #1 https://www.youtube.com/watch?v=GIHr_SpK3Qc)
